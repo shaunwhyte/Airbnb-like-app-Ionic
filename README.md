@@ -2,4 +2,3 @@
 An Airbnb like app made to learn the Ionic framework
 
 ![](GIFS/addHouse.gif )
-![](GIFS/propertyView.gif )
